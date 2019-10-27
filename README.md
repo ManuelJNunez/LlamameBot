@@ -1,5 +1,5 @@
 ## LlamamePlusBot
 
-Un paqueño bot de Telegram encargado de mencionar a toda la gente que por algún grupo donde se encuentre el bot haya usado el comando /llamame
+It is a Telegram Bot that mentions all the people registered in a list of a group.
 
-Puedes encontrarlo como @LLamamePlusBot en Telegram.
+You can find it in Telegram @LLamamePlusBot.
